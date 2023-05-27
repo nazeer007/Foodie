@@ -1,0 +1,41 @@
+h1{
+    color:orangered;
+    text-align: center;
+}
+body{
+    font-size: 18px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.myicons1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.myicons1 img{
+    height:40px;
+    width:40px;
+}
+
+.myicons2 .icon-text{
+    margin-bottom: 4px;
+}
+p,h2,h4{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h2{
+    color: orangered;
+}
+.icon-text {
+  display: flex;
+  align-items: center;
+}
+.icon-text img{
+    height:40px;
+    width:40px;
+}
+.icon-text img{
+    margin-left: 20px;
+    margin-right: 20px;
+}

@@ -1,0 +1,31 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    background-color: black;   
+}
+
+table th{
+    color:white;
+    background-color:orangered;
+}
+table td{
+    color:white;
+}
+h3{
+    text-align: center;
+    color:white;
+}
+button{
+    color: black;
+    background-color: white;
+}
+button:hover{
+    color: white;
+    background-color: green;
+}
+@media screen and (max-width: 500px) {
+    table{
+        width:auto;
+        height:auto;
+    }
+}
