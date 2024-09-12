@@ -14,8 +14,8 @@ session_start();
         <hr>
         <div class="topnav" id="myTopnav">
             <a href="about_page.php">About</a>
-            <a class="active" href="login.php">User</a>
-            <a href="admin_login.php">Admin</a>
+            <a class="active" href="User/login.php">User</a>
+            <a href="Admin/admin_login.php">Admin</a>
             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                 <i>≡</i>
             </a>
